@@ -3,5 +3,5 @@
 @stop
 
 @section('content')
-    aaaaaaaaaa
+    Test index
 @stop
