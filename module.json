@@ -1,0 +1,14 @@
+{
+    "enabled": true,
+    "info": {
+        "name": "Institute Management System",
+        "hash": "module_55ad0a201612111102",
+        "alias": "InstituteManagementSystem",
+        "version": "1.0",
+        "author": "Rony, Maruf, Tanbin, Forhad",
+        "vendor": "DoptorLtd",
+        "website": "http:\/\/doptor.com",
+        "description": "Institute Management System"
+    },
+    "target": "public|admin|backend"
+}
